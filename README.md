@@ -5,7 +5,8 @@ Spring MVC learnings
 
 step 1: Create maven project using mvn commond line utility
 ```bash
-mvn archetype:generate -DgroupId=com.raj.springmvc -DartifactId=spring-mvc-complete -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false
+mvn archetype:generate -DgroupId=com.raj.springmvc -DartifactId=spring-mvc-complete 
+-DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false
 ```
 Update the `pom.xml` to add servlet dependencies
 

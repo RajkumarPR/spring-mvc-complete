@@ -31,3 +31,4 @@ and tomcat7 plugin
       </configuration>
 </plugin>
 ```
+step 2: Run the web application

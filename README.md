@@ -3,7 +3,7 @@ Spring MVC learnings
 
 ## Creating java web application
 
-step 1: Create maven project using mvn commond line utility
+### step 1: Create maven project using mvn commond line utility
 ```bash
 mvn archetype:generate -DgroupId=com.raj.springmvc -DartifactId=spring-mvc-complete 
 -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false
@@ -31,6 +31,6 @@ and tomcat7 plugin
       </configuration>
 </plugin>
 ```
-step 2: Run the web application
+### step 2: Run the web application
 `mvn tomcat7:run`
 

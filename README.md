@@ -32,3 +32,5 @@ and tomcat7 plugin
 </plugin>
 ```
 step 2: Run the web application
+`mvn tomcat7:run`
+
